@@ -35,3 +35,4 @@ Alerts users if a page is likely to be phishing.
 
 outputs:
 --------
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e2a69e9e-ad77-4c1c-a9f9-8a7b829a8b7b" />
